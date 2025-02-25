@@ -1,7 +1,7 @@
 # LINK
 ### 공부일지 <a href="https://github.com/KHH0618/mbcAcademy"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 1st PERSONAL PROJECT <a href="https://github.com/KHH0618/RainScanner"><img src="https://img.shields.io/badge/PROJ[RainScanner]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href=""><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+### 2ed TEAM PROJECT <a href="https://github.com/ssoom98/FitAI-Pro"><img src="https://img.shields.io/badge/TEAMPRO[FitAI-Pro]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 
  # 📚 SKIL
